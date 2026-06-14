@@ -2,7 +2,7 @@ Termini di Servizio – [🜏 𝐒𝐇𝐀𝐃𝐎𝐖𝐁𝐎𝐓 🜏]
 Ultimo aggiornamento: [13/06/2026]
 1. Accettazione dei Termini
 
-Utilizzando [NOME BOT] ("il Bot") su Discord, accetti i presenti Termini di Servizio. Se non sei d'accordo, non utilizzare il Bot.
+Utilizzando  il Bot su Discord, accetti i presenti Termini di Servizio. Se non sei d'accordo, non utilizzare il Bot.
 2. Descrizione del Servizio
 
 Il Bot fornisce funzionalità di [ moderazione, divertimento] all'interno dei server Discord in cui viene aggiunto.
